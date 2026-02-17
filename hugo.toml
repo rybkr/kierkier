@@ -1,0 +1,12 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Your Name"
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  name        = "Kieran Baker"
+  tagline     = "This is me."
+  bio         = "A sentence or two about yourself. Keep it brief and genuine."
+  modelFile   = "/models/kieran.glb"
+  modelAlt    = "3D model"
