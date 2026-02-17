@@ -1,6 +1,7 @@
 baseURL = "https://rybkr.github.io/kierkier/"
 languageCode = "en-us"
 title = "Your Name"
+publishDir = "docs"
 
 disableKinds = ["taxonomy", "term"]
 
